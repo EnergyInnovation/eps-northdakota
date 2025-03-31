@@ -19,8 +19,8 @@ Additional Subsidy for Elec CCS[hard coal w CCS es] = -84
 Additional Subsidy for Elec CCS[natural gas combined cycle w CCS es] = -84
 Additional Subsidy for Elec CCS[biomass w CCS es] = -84
 Additional Subsidy for Elec CCS[lignite w CCS es] = -84
-Additional Subsidy for Grid Battery Production = -43.65
 Additional Subsidy for Vehicle Battery Production = -43.65
+Additional Subsidy for Grid Battery Production = -43.65
 Boolean Use Non BAU Capacity Retirement Schedule[hard coal es] = 1
 Boolean Use Non BAU Capacity Retirement Schedule[lignite es] = 1
 Boolean Use Non BAU Capacity Retirement Schedule[hard coal w CCS es] = 1
@@ -41,7 +41,6 @@ Boolean Use Non BAU Process Emissions Additions[ngp production methane destructi
 Boolean Use Non BAU Process Emissions Additions[ngp processing TnD methane capture] = 1
 Boolean Use Non BAU Process Emissions Additions[ngp processing TnD methane destruction] = 1
 Fraction of Hydrogen Production Pathways Shifted = 1
-Percent Change in Electricity Exports = 2
 Percent Reduction in BAU Subsidies[nuclear] = 1
 Percent Reduction in BAU Subsidies[wind] = 1
 Percent Reduction in BAU Subsidies[solar] = 1
@@ -50,5 +49,3 @@ Percent Reduction in BAU Subsidies[hydrogen] = 1
 Percentage Increase in EV Chargers = -0.11987
 Percentage Reduction in Plant Downtime[natural gas combined cycle es] = -0.29613
 Policy Implementation Schedule Selector = 3
-Percent Change in Electricity Exports = 1.2276
-
